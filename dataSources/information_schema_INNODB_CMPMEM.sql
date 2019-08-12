@@ -1,0 +1,5 @@
+INSERT INTO information_schema.INNODB_CMPMEM (page_size, buffer_pool_instance, pages_used, pages_free, relocation_ops, relocation_time) VALUES (1024, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMPMEM (page_size, buffer_pool_instance, pages_used, pages_free, relocation_ops, relocation_time) VALUES (2048, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMPMEM (page_size, buffer_pool_instance, pages_used, pages_free, relocation_ops, relocation_time) VALUES (4096, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMPMEM (page_size, buffer_pool_instance, pages_used, pages_free, relocation_ops, relocation_time) VALUES (8192, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMPMEM (page_size, buffer_pool_instance, pages_used, pages_free, relocation_ops, relocation_time) VALUES (16384, 0, 0, 0, 0, 0);

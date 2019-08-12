@@ -1,0 +1,8 @@
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'information_schema', 'utf8', 'utf8_general_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'maindb1', 'utf8mb4', 'utf8mb4_unicode_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'test', 'latin1', 'latin1_swedish_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'performance_schema', 'utf8', 'utf8_general_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'maindb', 'utf8mb4', 'utf8mb4_unicode_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'sonoo', 'utf8mb4', 'utf8mb4_unicode_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'samdb101', 'utf8mb4', 'utf8mb4_unicode_ci', null);
+INSERT INTO information_schema.SCHEMATA (CATALOG_NAME, SCHEMA_NAME, DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME, SQL_PATH) VALUES ('def', 'mysql', 'utf8mb4', 'utf8mb4_unicode_ci', null);

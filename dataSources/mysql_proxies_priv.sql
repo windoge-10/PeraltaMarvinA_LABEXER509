@@ -1,0 +1,2 @@
+INSERT INTO mysql.proxies_priv (Host, User, Proxied_host, Proxied_user, With_grant, Grantor, Timestamp) VALUES ('localhost', 'root', '', '', 1, '', '2019-07-27 12:06:26');
+INSERT INTO mysql.proxies_priv (Host, User, Proxied_host, Proxied_user, With_grant, Grantor, Timestamp) VALUES ('windoge-pc', 'root', '', '', 1, '', '2019-07-27 12:06:26');

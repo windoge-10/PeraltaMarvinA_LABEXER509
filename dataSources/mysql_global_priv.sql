@@ -1,0 +1,6 @@
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('localhost', 'root', '{"access":18446744073709551615,"plugin":"mysql_native_password","authentication_string":"invalid","auth_or":[{},{"plugin":"unix_socket"}]}');
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('localhost', 'mysql', '{"access":18446744073709551615,"plugin":"mysql_native_password","authentication_string":"invalid","auth_or":[{},{"plugin":"unix_socket"}]}');
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('localhost', '', '{}');
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('windoge-pc', '', '{}');
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('localhost', 'marvinp', '{"access":1073740799,"plugin":"mysql_native_password","authentication_string":"*9402B3FA911EF34FA041D99BBD29F6C806EC8575","password_last_changed":1564204821}');
+INSERT INTO mysql.global_priv (Host, User, Priv) VALUES ('localhost', 'marvinperalta', '{"access":1073740799,"plugin":"mysql_native_password","authentication_string":"*A08B928FBE527675C95A7D21E7C0ADD7C645BCDB","password_last_changed":1564205008}');

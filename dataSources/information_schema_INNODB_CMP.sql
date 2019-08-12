@@ -1,0 +1,5 @@
+INSERT INTO information_schema.INNODB_CMP (page_size, compress_ops, compress_ops_ok, compress_time, uncompress_ops, uncompress_time) VALUES (1024, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMP (page_size, compress_ops, compress_ops_ok, compress_time, uncompress_ops, uncompress_time) VALUES (2048, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMP (page_size, compress_ops, compress_ops_ok, compress_time, uncompress_ops, uncompress_time) VALUES (4096, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMP (page_size, compress_ops, compress_ops_ok, compress_time, uncompress_ops, uncompress_time) VALUES (8192, 0, 0, 0, 0, 0);
+INSERT INTO information_schema.INNODB_CMP (page_size, compress_ops, compress_ops_ok, compress_time, uncompress_ops, uncompress_time) VALUES (16384, 0, 0, 0, 0, 0);

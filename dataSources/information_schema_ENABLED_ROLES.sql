@@ -1,0 +1,1 @@
+INSERT INTO information_schema.ENABLED_ROLES (ROLE_NAME) VALUES (null);

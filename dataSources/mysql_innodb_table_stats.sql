@@ -1,0 +1,5 @@
+INSERT INTO mysql.innodb_table_stats (database_name, table_name, last_update, n_rows, clustered_index_size, sum_of_other_index_sizes) VALUES ('mysql', 'REGISTRATION', '2019-08-11 20:44:53', 0, 1, 0);
+INSERT INTO mysql.innodb_table_stats (database_name, table_name, last_update, n_rows, clustered_index_size, sum_of_other_index_sizes) VALUES ('mysql', 'gtid_slave_pos', '2019-07-27 12:06:26', 0, 1, 0);
+INSERT INTO mysql.innodb_table_stats (database_name, table_name, last_update, n_rows, clustered_index_size, sum_of_other_index_sizes) VALUES ('mysql', 'mysql', '2019-08-11 20:46:45', 0, 1, 0);
+INSERT INTO mysql.innodb_table_stats (database_name, table_name, last_update, n_rows, clustered_index_size, sum_of_other_index_sizes) VALUES ('mysql', 'samdb101', '2019-08-11 20:57:43', 0, 1, 0);
+INSERT INTO mysql.innodb_table_stats (database_name, table_name, last_update, n_rows, clustered_index_size, sum_of_other_index_sizes) VALUES ('samdb101', 'samdb101', '2019-08-12 15:52:31', 6, 1, 0);
